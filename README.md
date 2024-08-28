@@ -30,7 +30,7 @@ Para ejecutar este script, sigue los pasos a continuación:
 
 1. **Clonar el Repositorio:**
    ```bash
-   git clone (https://github.com/beafn28/VulnSpy)
+   git clone https://github.com/beafn28/VulnSpy
    cd VulnSpy
 2. **Dar Permisos de Ejecución:**
     ```bash
